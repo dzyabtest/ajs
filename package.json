@@ -1,5 +1,5 @@
 {
-  "name": "@dzyab/ajs",
+  "name": "@dzyabtest/ajs",
   "version": "1.0.0",
   "main": "dist/index.js",
   "publishConfig": {
